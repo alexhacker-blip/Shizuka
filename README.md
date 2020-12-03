@@ -13,3 +13,5 @@ Modular Telegram Bot for managing your group with additional features.
 ## How To Host
 Deploy manager Bot
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/IntelligentSammy/Shizuka/tree/master"> <img src="https://telegra.ph/file/3d5baaff9cbb43c5a525e.png" alt="Deploy to Heroku" width="200" height="33.33"/></a></p>
+
+Enjoy
